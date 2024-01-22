@@ -1,0 +1,2 @@
+# MiniMc
+Launcher Sencillo Minecraft
