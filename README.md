@@ -1,2 +1,3 @@
 # MiniMc
-Launcher Sencillo Minecraft
+
+## Instalación:
